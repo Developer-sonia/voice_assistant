@@ -1,4 +1,4 @@
-Django==4.2
+Django==4.2.18
 openai==0.27.0
 SpeechRecognition==3.8.1
 gTTS==2.3.2
